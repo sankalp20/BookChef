@@ -3,7 +3,8 @@ Welcome to BookChef, your all-in-one website for books is designed to provide us
 
 ## The Dashboard
 ![Sample Image](/public/images/mainpage.png)
-![Sample Image](predictions.png)
+![Sample Image](/public/images/bookdescription.png)
+![Sample Image](/public/images/cart.png)
 
 #### Live Website
 [Click Here](https://bookchef.vercel.app/) 
