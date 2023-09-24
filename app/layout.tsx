@@ -4,6 +4,7 @@ import { Inter } from 'next/font/google'
 import Provider from './components/Provider'
 
 export const dynamic = 'force-dynamic'
+export const revalidate = 0;
 
 const inter = Inter({ subsets: ['latin'] })
 
