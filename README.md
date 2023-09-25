@@ -1,4 +1,4 @@
-# Finanseer : Get your books OnBoard
+# Bookchef : Get your books OnBoard
 Welcome to BookChef, your all-in-one website for books is designed to provide users with a platform to browse, search for, and purchase books online. It includes features such as user authentication, a catalog of books, a shopping cart, and secure payment processing.
 
 ## The Dashboard
