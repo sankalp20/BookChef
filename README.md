@@ -72,8 +72,5 @@ This will start the development server, and you can access the application in yo
 ## Deployment
 This project can be deployed to various hosting platforms such as Vercel, Netlify, or your own server. Refer to the deployment documentation of your chosen hosting service for specific instructions.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 Have questions or feedback? Feel free to reach out to me at sankalpforwork@gmail.com.
